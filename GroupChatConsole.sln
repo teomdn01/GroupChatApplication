@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSide", "GroupChatConsole\ServerSide.csproj", "{EB02B09C-F386-4602-9A07-1DF10DF9E06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientSide", "ClientSide\ClientSide.csproj", "{4D39FECF-78B5-4D4E-AC5E-46C372418FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB02B09C-F386-4602-9A07-1DF10DF9E06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB02B09C-F386-4602-9A07-1DF10DF9E06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB02B09C-F386-4602-9A07-1DF10DF9E06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB02B09C-F386-4602-9A07-1DF10DF9E06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D39FECF-78B5-4D4E-AC5E-46C372418FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D39FECF-78B5-4D4E-AC5E-46C372418FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D39FECF-78B5-4D4E-AC5E-46C372418FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D39FECF-78B5-4D4E-AC5E-46C372418FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD8FF18-4E37-4002-9696-40854C3D2BA1}
+	EndGlobalSection
+EndGlobal
